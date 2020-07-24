@@ -5,6 +5,7 @@ import Works from './components/Works'
 import About from './components/About'
 import Contact from './components/Contact'
 import { Switch, Route } from 'react-router-dom'
+import "../src/Styles/App.css"
 
 function App() {
   return (

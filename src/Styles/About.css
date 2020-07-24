@@ -1,0 +1,18 @@
+.about-pic {
+  position: absolute;
+  top: 182px;
+  left: 163px;
+  width: 634px;
+  height: 834px;
+  background: transparent url('../images/Image\ 3.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.about-text {
+  position: absolute;
+  top: 291px;
+  left: 950px;
+  width: 713px;
+  height: 636px;
+  background: transparent url('../images/Group 5.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
