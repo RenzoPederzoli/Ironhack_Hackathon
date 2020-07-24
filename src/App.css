@@ -76,5 +76,6 @@ nav ul li {
 }
 
 nav a:hover {
-  color: rgb(202, 202, 202);
+  /* color: rgb(202, 202, 202); */
+  text-decoration: underline;
 }
