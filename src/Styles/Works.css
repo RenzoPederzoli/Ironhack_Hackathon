@@ -1,0 +1,30 @@
+.works-wrapper {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  width: 80%;
+  /* border: 1px solid black; */
+}
+
+.work-text-section {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2%;
+  width: 35%;
+}
+
+.work-text-section h2 {
+  margin-bottom: 0;
+}
+.work-text-section span {
+  margin-top: 0;
+}
+
+.work-img {
+  border: 1px solid black;
+  width: 35%;
+  height: 60vh;
+}
