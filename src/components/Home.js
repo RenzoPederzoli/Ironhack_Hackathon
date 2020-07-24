@@ -1,14 +1,12 @@
 import React from 'react';
 import "../Styles/Home.css"
-import stanley from '../images/Image 1.png'
 
 const Home = () => {
   return (
-    <div className="home-wrapper">
-      <h1> Hi there, <br/> I'm Stanley. </h1>
-      <div className="home-img">
-        <img className='stanley' src={stanley} alt='stanley'></img>
-      </div>
+    <div>
+      <div className="home-text"></div>
+      <div className="home-subtext"></div>
+      <div className="home-img"></div>
     </div>
   );
 };
