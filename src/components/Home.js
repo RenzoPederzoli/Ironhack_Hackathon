@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home-wrapper">
       <h1> Hi there, <br/> I'm Stanley. </h1>
       <div className="home-img">
-        <img src={stanley} alt='stanley'></img>
+        <img className='stanley' src={stanley} alt='stanley'></img>
       </div>
     </div>
   );
