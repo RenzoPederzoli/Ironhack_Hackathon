@@ -7,10 +7,10 @@ class Navbar extends Component {
             <div>
                 <nav>
                 <ul>
-                    <li><Link class='nav-links' to='/home'>HOME</Link></li>
-                    <li><Link class='nav-links' to='/work'>WORK</Link></li>
-                    <li><Link class='nav-links' to='about'>ABOUT ME</Link></li>
-                    <li><Link class='nav-links' to='contact'>CONTACT</Link></li>
+                    <li><Link className='nav-links' to='/home'>HOME</Link></li>
+                    <li><Link className='nav-links' to='/work'>WORK</Link></li>
+                    <li><Link className='nav-links' to='/about'>ABOUT ME</Link></li>
+                    <li><Link className='nav-links' to='/contact'>CONTACT</Link></li>
                 </ul>  
                 </nav>
             </div>
