@@ -4,7 +4,7 @@ nav {
 }
 
 nav {
-  padding: 5px 10px;
+  padding: 5px 15px;
   width: 100%;
   position: fixed;
   top: 0;
@@ -23,17 +23,15 @@ nav ul {
 nav ul li {
   list-style-type: none;
   text-align: center;
-  padding: 40px 25px 2px 25px;
+  padding: 40px 0px 2px 0px;
   border-radius: 5px;
-  margin: 0 18px 0 0;
+  margin: 0 50px 0 0;
 }
 
 .nav-links {
   color: black;
   text-decoration: none;
-  font-size: 18px;
-  font-weight: bold;
-  /* width: 10px; */
+  font-size: 20px;
 }
 
 nav a:hover {
